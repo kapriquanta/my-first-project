@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Arcade Deluxe",
+  "description": "An arcade-perfect Flappy Bird clone with custom skins, dynamic time of day, audio synthesizer, medals, and high-score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
